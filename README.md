@@ -1,5 +1,3 @@
-### Skills
-
 #### Daily
 [![Proficient](https://skillicons.dev/icons?i=py,django,ubuntu,bash,github,vscode,js,html,css)](https://skillicons.dev)
  - pandas, nextflow
