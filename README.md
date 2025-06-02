@@ -1,4 +1,13 @@
-## Hi there 👋
+### Skills
+
+#### Daily
+[![Proficient](https://skillicons.dev/icons?i=py,django,ubuntu,bash,github,vscode,js,html,css)](https://skillicons.dev)
+ - pandas, nextflow
+#### Some experience
+[![Proficient](https://skillicons.dev/icons?i=r,obsidian,mongodb,nginx,md,ansible,java,visualstudio)](https://skillicons.dev)
+
+#### Hobby projects
+[![Proficient](https://skillicons.dev/icons?i=raspberrypi,arduino,cs,d3)](https://skillicons.dev)
 
 <!--
 **ameintjes/ameintjes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
